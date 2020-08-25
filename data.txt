@@ -1,0 +1,3 @@
+Name: newbie
+Age: 24
+Favorite Color: Beige
